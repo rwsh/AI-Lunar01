@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan  6 11:19:12 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
 
 # класс для хранения фактов

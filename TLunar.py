@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan  5 12:33:56 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
 
 # Класс спускаемого аппарата
